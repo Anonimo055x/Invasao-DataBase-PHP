@@ -1,0 +1,16 @@
+<?php
+\mysql_xdevapi\DatabaseObject::class;
+pg_meta_data("www.terabyteshop.com.br");
+mysql_xdevapi\XSession::class;
+mysqli_change_user("matheusmarkting@yahoo.com");
+mysql_xdevapi\CollectionAdd::class;
+ibase_backup("/home/kali/Desktop/");
+ssh2_auth_password("admin");
+ssh2_auth_hostbased_file("admin");
+ssh2_exec("open");
+ssh2_auth_pubkey_file("admin");
+ssh2_connect("www.terabyteshop.com.br");
+openssl_csr_export_to_file("/home/kali/Desktop/");
+openssl_decrypt("admin");
+php_ini_loaded_file("<?php/php?>");
+php?>
